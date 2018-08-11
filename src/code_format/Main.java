@@ -17,7 +17,7 @@ import cn.hutool.core.util.StrUtil;
 public class Main {
 
     public static void main(String[] args) {
-        String src = "C:\\Users\\Administrator\\Desktop\\aa";
+        String src = "C:/Users/Administrator/Desktop\\aa";
         read(src);
 
     }
